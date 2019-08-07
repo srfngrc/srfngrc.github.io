@@ -3,6 +3,8 @@
     background: #aaa;
   }
 
-  .Square_boxes{
-    width: 
+  .SquareBoxes{
+    width: 100%;
+    height: 700px;
+    display: block;
   }
